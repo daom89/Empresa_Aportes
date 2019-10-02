@@ -1,0 +1,128 @@
+﻿id;Codigo;Tipo;NIT;Administradora;Nombre;Estado
+1;EAS016;EPS;8909049961;Empresas Públicas de Medellín Departamento Médico; Empresas Públicas de Medellín Departamento Médico;Activo
+2;EAS027;EPS;8001128062;Fondo de Pasivo Social de Ferrocarriles; Fondo de Ferrocarriles Nacionales de Colombia (EPS);Activo
+3;EPS001;EPS;8301138310;Aliansalud EPS; Aliansalud EPS (Antes Colmédica);Activo
+4;EPS002;EPS;8001309074;Salud Total S.A.; Salud Total;Activo
+5;EPS005;EPS;8002514406;E.P.S Sanitas; Sanitas;Activo
+6;EPS008;EPS;8600669427;Compensar Entidad Promotora de Salud; Compensar;Activo
+7;EPS010;EPS;8000887022;EPS Sura; EPS Sura;Activo
+8;EPS012;EPS;8903030935;Comfenalco Valle EPS; Comfenalco Valle;Activo
+9;EPS016;EPS;8050004271;Coomeva EPS; Coomeva;Activo
+10;EPS017;EPS;8300035647;Famisanar; Famisanar;Activo
+11;EPS018;EPS;8050011572;Servicio Occidental de Salud S.O.S. S.A.; S.O.S. Servicio Occidental de Salud S.A.;Activo
+12;EPS023;EPS;8300097830;Cruz Blanca S.A; Cruz Blanca;Activo
+13;EPS033;EPS;8300741845;Saludvida S.A EPS; Saludvida;Activo
+14;EPS037;EPS;9001562642;Nueva EPS; Nueva E.P.S.;Activo
+15;EPS042;EPS;9002267153;Cooperativa de Salud y Desarrollo Integral de la Zona Sur Oriental de Cartagena Ltda. Coosalud E.S.S.;Coosalud EPS;Activo
+16;EPS044;EPS;9010974735;Medimás EPS S.A.S.;Medimás EPS;Activo
+17;EPS046;EPS;9009142541;Fundación Salud MIA EPS;Salud MIA EPS;Activo
+18;EPS048;EPS;8060083947;Asociación Mutual Ser Empresa Solidaria De Salud  Eps-S - Mutual Ser Eps-S;EPS Mutual Ser;Activo
+19;MIN001;EPS;9010379161;Fondo de Solidaridad y Garantía Fosyga; Fosyga;Activo
+20;MIN002;EPS;9010379161;Fondo de Solidaridad y Garantía Fosyga; Fosyga Régimen de Excepción;Activo
+21;MIN003;EPS;9010379161;Fondo de Solidaridad y Garantía Fosyga; Fosyga Residente Exterior o Régimen Subsidiado;Activo
+22;RES005;EPS;8901022573;Universidad del Atlántico; Universidad del Atlántico;Activo
+23;RES006;EPS;8902031830;Universidad Industrial de Santander; Universidad Industrial de Santander;Activo
+24;RES007;EPS;8903990106;Universidad del Valle; Universidad del Valle;Activo
+25;RES008;EPS;8999990633;Universidad Nacional de Colombia; Universidad Nacional de Colombia;Activo
+26;RES009;EPS;8915003192;Universidad del Cauca; Universidad del Cauca;Activo
+27;RES010;EPS;8904801235;Universidad de Cartagena; Universidad de Cartagena;Activo
+28;RES011;EPS;8909800408;Universidad de Antioquia; Universidad de Antioquia;Activo
+29;RES012;EPS;8910800313;Universidad de Córdoba; Universidad de Córdoba;Activo
+30;RES013;EPS;8001189541;Universidad de Nariño; Universidad de Nariño;Activo
+31;RES014;EPS;8918003301;Universidad Pedagógica y Tecnológica de Colombia - UPTC; Universidad Pedagógica - UPTC;Activo
+32;EPSC22;EPS;899999107;Entidad Administradora de Régimen Subsidiado Convida;  Convida;Activo
+33;EPSC25;EPS;891856000;Capresoca EPS;Capresoca;Activo
+34;EPSC33;EPS;830074184;Saludvida S.A. EPS Movilidad ;Saludvida S.A. EPS Moviilidad;Activo
+35;EPSC34;EPS;900298372;Capital Salud EPSS S.A.S.;Capital Salud;Activo
+36;EPSIC1;EPS;824001398;Asociación de Cabildos Indígenas del Cesar “Dusakawi”;Dusakawi;Activo
+37;EPSIC2;EPS;812002376;Asociación de Cabildos Indígenas del Resguardo Indígena Zenú de San Andrés de Sotavento Córdoba - Sucre 'Manexka';Manexka;Activo
+38;EPSIC3;EPS;817001773;Asociación Indígena del Cauca - A.I.C.;A.I.C.;Activo
+39;EPSIC4;EPS;839000495;Entidad Promotora de Salud Anas Wayuu EPSI;Anas Wayuu;Activo
+40;EPSIC5;EPS;837000084;Entidad Promotora de Salud Mallamas EPSI;Mallamas;Activo
+41;EPSIC6;EPS;809008362;Entidad Promotora de Salud Pijaosalud EPSI;  Pijaosalud;Activo
+42;ESSC02;EPS;811004055;Empresa Mutual para el desarrollo integral de la salud E.S.S. Emdisalud ESS;  Emdisalud;Activo
+43;ESSC07;EPS;806008394;Asociación Mutual Ser Empresa Solidaría de Salud ESS;  Mutual Ser;Activo
+44;ESSC18;EPS;901021565;Sociedad Simplificada por Acciones Emssanar S.A.S.;  Emssanar;Activo
+45;ESSC24;EPS;900226715;Cooperativa de Salud y Desarrollo Integral de la Zona Sur Oriental de Cartagena Ltda. Coosalud E.S.S.;  Coosalud Movilidad;Activo
+46;ESSC33;EPS;804002105;Cooperativa de Salud Comunitaria 'Comparta';Comparta;Activo
+47;ESSC62;EPS;900935126;Asociación Mutual La Esperanza Asmet Salud;  Asmet Salud;Activo
+48;ESSC76;EPS;818000140;Asociación Mutual Barrios Unidos de Quibdó E.S.S. AMBUQ;  Ambuq;Activo
+49;ESSC91;EPS;901093846;Entidad Cooperativa Solidaria de Salud Ecoopsos;  Ecoopsos;Activo
+50;EPS040;EPS;900604350;Caja de Compensación Familiar de Antioquía - Comfama - Hoy Savia Salud EPS;Savia Salud;Activo
+51;EPS041;EPS;900156264;Nueva EPS S.A. Movilidad;Nueva EPS Movilidad;Activo
+52;EPS045;EPS;901097473;Medimás EPS S.A.S;Medimás Movilidad;Activo
+53;EPSS46;EPS;9009142541;Fundación Salud MIA EPS;Salud MIA EPS;Activo
+54;CCFC20;EPS;891600091;Comfachoco – CCF del Chocó;  Comfachoco;Activo
+55;CCFC23;EPS;892115006;Caja de Compensación Familiar de La Guajira; Comfamiliar Guajira;Activo
+56;CCFC24;EPS;891180008;Comfamiliar Huila EPS – CCF;  Comfamilar Huila;Activo
+57;CCFC27;EPS;891280008;Comfamiliar de Nariño EPS – CCF;  Comfamiliar de Nariño;Activo
+58;CCFC33;EPS;892200015;Comfasucre EPS-CCF de Sucre;Comfasucre;Activo
+59;CCFC50;EPS;890500675;EPS-S Comfaoriente;Comfaoriente;Activo
+60;CCFC53;EPS;860045904;Comfacundi - CCF de Cundinamarca;Comfacundi;Activo
+61;CCFC55;EPS;890102044;Cajacopi Atlántico  - CCF;  Cajacopi Atlántico;Activo
+62;230201;AFP;8002297390;Protección; Protección;Activo
+63;230301;AFP;8002248088;Porvenir; Porvenir;Activo
+64;230901;AFP;8002530552;Old Mutual Fondo de Pensiones Obligatorias; Old Mutual;Activo
+65;230904;AFP;8301251322;Old Mutual Fondo Alternativo de Pensiones; Old Mutual Alternativo;Activo
+66;231001;AFP;8002279406;Colfondos; Colfondos;Activo
+67;25-2;AFP;8600073798;Caja de Auxilios y de Prestaciones de ACDAC; Caxdac;Activo
+68;25-3;AFP;8999997347;Fondo de Previsión Social del Congreso; Fonprecon;Activo
+69;25-7;AFP;8002162780;Pensiones de Antioquia; Pensiones de Antioquia;Activo
+70;25-14;AFP;9003360047;Administradora Colombiana de Pensiones Colpensiones; Colpensiones;Activo
+71;14-4;ARL;8600021839;A.R.L. Seguros de Vida Colpatria S.A.; Colpatria ARP;Activo
+72;14-7;ARL;8600025032;Compañía de Seguros Bolívar S.A.; Seguros Bolívar;Activo
+73;14-8;ARL;8600221375;Seguros de Vida Aurora; Seguros de Vida Aurora;Activo
+74;14-11;ARL;8909037905;Seguros de Vida Suramericana S.A.; ARP Sura (Antes Suratep);Activo
+75;14-17;ARL;8605036173;ARP Alfa; Alfa;Activo
+76;14-18;ARL;8600086457;Liberty Seguros de Vida S.A.; Liberty;Activo
+77;14-23;ARL;8600111536;Positiva Compañía de Seguros; Positiva Compañía de Seguros;Activo
+78;14-25;ARL;8002261753;Colmena Riesgos Profesionales; Colmena;Activo
+79;14-29;ARL;8300086861;La Equidad Seguros de Vida; La Equidad Seguros;Activo
+80;14-30;ARL;8300549046;Mapfre Colombia Vida Seguros S.A; Mapfre Colombia Vida Seguros S.A.;Activo
+81;CCF02;CCF;8909008401;Camacol; Comfamiliar Camacol;Activo
+82;CCF03;CCF;8909008426;Comfenalco Antioquia CCF; Comfenalco Antioquia;Activo
+83;CCF04;CCF;8909008419;Caja de Compensación Familiar de Antioquia; Comfama;Activo
+84;CCF05;CCF;8901020441;Caja de Compensación Familiar Cajacopi Atlántico; Cajacopi Atlántico;Activo
+85;CCF06;CCF;8901020022;Combarranquilla; Combarranquilla;Activo
+86;CCF07;CCF;8901019949;Comfamiliar Atlántico; Comfamiliar Atlántico;Activo
+87;CCF08;CCF;8904800237;Comfenalco Cartagena; Comfenalco Cartagena;Activo
+88;CCF09;CCF;8904801101;Caja de Compensación Familiar de Cartagena; Comfamiliar Cartagena;Activo
+89;CCF10;CCF;8918002138;Comfaboy; Comfaboy;Activo
+90;CCF11;CCF;8908064905;CCF de Caldas; Confamiliares;Activo
+91;CCF13;CCF;8911900472;Comfaca; Comfaca;Activo
+92;CCF14;CCF;8915001820;Comfacauca; Comfacauca;Activo
+93;CCF15;CCF;8923999898;Caja de Compensación Familiar Cesar; Comfacesar;Activo
+94;CCF16;CCF;8910800051;Comfacor; Comfacor;Activo
+95;CCF21;CCF;8600135703;Cafam; Cafam;Activo
+96;CCF22;CCF;8600073361;Colsubsidio; Colsubsidio;Activo
+97;CCF24;CCF;8600669427;Caja de Compensación Familiar Compensar; Compensar;Activo
+98;CCF26;CCF;8600459047;Comfacundi; Comfacundi;Activo
+99;CCF29;CCF;8916000918;CCF del Chocó; Comfachocó;Activo
+100;CCF30;CCF;8921150065;Caja de Compensación Familiar de La Guajira; Comfamiliar Guajira;Activo
+101;CCF32;CCF;8911800082;Comfamiliar del Huila; Comfamiliar Huila;Activo
+102;CCF33;CCF;8917800933;CCF del Magdalena; Cajamag;Activo
+103;CCF34;CCF;8920001463;Cofrem Meta; Cofrem;Activo
+104;CCF35;CCF;8912800081;CCF de Nariño; Comfamiliar Nariño;Activo
+105;CCF36;CCF;8905006756;Caja de Compensación Familiar del Oriente; Comfaoriente;Activo
+106;CCF37;CCF;8905005163;Caja de Comp. Familiar Comfanorte ; Comfanorte;Activo
+107;CCF38;CCF;8902702755;Caja de Comp. Familiar de Barrancabermeja Cafaba ; Cafaba;Activo
+108;CCF39;CCF;8902001061;Cajasan ; Cajasan;Activo
+109;CCF40;CCF;8902015787;Comfenalco Santander; Comfenalco Santander;Activo
+110;CCF41;CCF;8922000155;Caja de Compensación Familiar del Sucre; Comfasucre;Activo
+111;CCF43;CCF;8900003810;Comfenalco Quindío; Comfenalco Quindío;Activo
+112;CCF44;CCF;8914800001;Comfamiliar Risaralda; Comfamiliar Risaralda;Activo
+113;CCF46;CCF;8907047370;CCF del Sur del Tolima Cafasur ; Cafasur;Activo
+114;CCF48;CCF;8002110251;Comfatolima ; Comfatolima;Activo
+115;CCF50;CCF;8907001484;Comfenalco –Tolima; Comfenalco Tolima;Activo
+116;CCF56;CCF;8903030935;Comfenalco Valle; Comfenalco Valle;Activo
+117;CCF57;CCF;8903032085;Comfandi ; Comfandi;Activo
+118;CCF63;CCF;8912003378;Caja de Compensación Familiar del Putumayo; Comfamiliar Putumayo;Activo
+119;CCF64;CCF;8924003205;Cajasai ; Cajasai ;Activo
+120;CCF65;CCF;8000031226;Caja de Comp Familiar del Amazonas Cafamaz; Cafamaz ;Activo
+121;CCF67;CCF;8002194884;Comfiar Caja de Compensacion Familiar de Arauca; Comfiar ;Activo
+122;CCF68;CCF;8002319694;Comcaja; Comcaja ;Activo
+123;CCF69;CCF;8440033928;Comfacasanare; Comfacasanare ;Activo
+124;PAESAP;PARAFISCALES;8999990547;Escuela Superior de Administración Publica; ESAP;Activo
+125;PAICBF;PARAFISCALES;8999992392;Instituto Colombiano de Bienestar Familiar; ICBF;Activo
+126;PAMIED;PARAFISCALES;8999990017;Ministerio de Educación Nacional; MEN;Activo
+127;PASENA;PARAFISCALES;8999990341;Servicio Nacional de Aprendizaje Sena; SENA;Activo
